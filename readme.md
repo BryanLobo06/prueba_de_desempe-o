@@ -16,16 +16,8 @@ Footer: Contains copyright information and contact details.
 
 ## File Structure
 
-/assets
-    /css
-        style.css          # Stylesheet for the web page
-    /img
-        profile_picture.jpg # Profile picture of the individual
-/pages
-    index.html             # About Me page
-    portafolio.html        # Projects page
-    contacto.html          # Contact page
-profile.html              # Main profile page
+![Structure](https://github.com/user-attachments/assets/66724711-16d9-459b-b66a-cefb2a7e2df2)
+
 
 ## Technologies Used
 
