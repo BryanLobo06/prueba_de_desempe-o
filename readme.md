@@ -6,13 +6,13 @@ This project is a simple personal profile web page that showcases information ab
 
 ## Features
 
-Navigation Menu: Links to different sections of the website, including "About Me," "Projects," and "Contact."
+**Navigation Menu:** Links to different sections of the website, including "About Me," "Projects," and "Contact."
 
-Profile Section: Displays a welcome message, a profile picture, and a brief introduction about the individual.
+**Profile Section:** Displays a welcome message, a profile picture, and a brief introduction about the individual.
 
-Hobbies Section: Lists personal hobbies and interests.
+**Hobbies Section:** Lists personal hobbies and interests.
 
-Footer: Contains copyright information and contact details.
+**Footer:** Contains copyright information and contact details.
 
 ## File Structure
 
@@ -21,9 +21,9 @@ Footer: Contains copyright information and contact details.
 
 ## Technologies Used
 
-HTML5: For structuring the content of the web page.
+**HTML5:** For structuring the content of the web page.
 
-CSS: For styling the web page (linked via an external stylesheet).
+**CSS:** For styling the web page (linked via an external stylesheet).
 
 ## Installation
 
